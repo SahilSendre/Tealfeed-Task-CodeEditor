@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tealfeed-Task-CodeEditor/static/css/main.d36f59ea.css",
+    "main.js": "/Tealfeed-Task-CodeEditor/static/js/main.995f5b53.js",
+    "static/js/453.3d17588f.chunk.js": "/Tealfeed-Task-CodeEditor/static/js/453.3d17588f.chunk.js",
+    "static/media/logo.svg": "/Tealfeed-Task-CodeEditor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Tealfeed-Task-CodeEditor/index.html",
+    "main.d36f59ea.css.map": "/Tealfeed-Task-CodeEditor/static/css/main.d36f59ea.css.map",
+    "main.995f5b53.js.map": "/Tealfeed-Task-CodeEditor/static/js/main.995f5b53.js.map",
+    "453.3d17588f.chunk.js.map": "/Tealfeed-Task-CodeEditor/static/js/453.3d17588f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d36f59ea.css",
+    "static/js/main.995f5b53.js"
+  ]
+}
